@@ -1,0 +1,31 @@
+Boss room:
+Boss floor toggle
+Boss Stage Tracker
+Boss AI
+Fix demo player movement
+Sword particles (swing, ground smash)
+
+Mobs:
+Shoot mob
+Laser mob
+
+Do later:
+laser skull projectile & particles
+
+
+Boss Stages:
+Stage 1-
+Regular attack chain
+
+Stage 2-
+Attacks gets faster
+Regular attack chain
+Sword thrust
+Laser skull attacks
+
+Stage 3-
+Attacks gets faster
+Regular attack chain
+Sword thrust
+Laser skull chain
+Sword burst

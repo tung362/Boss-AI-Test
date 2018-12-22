@@ -1,0 +1,56 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\DOTweenPro.dll into Unity Child Domain
+- Completed reload, in  0.229 seconds
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tung Nguyen\Desktop\Dev\AIE\RunedBones - Final\RunedBones\RunedBones_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 5760x1081 at -1920,-1
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'HUD') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HUD') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 18.377151 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 45ecc -> priority: 1 
+  Thread -> id: 45f10 -> priority: 1 
+  Thread -> id: 45d58 -> priority: 1 
+  Thread -> id: 4462c -> priority: 1 
+  Thread -> id: 45f24 -> priority: 1 
+  Thread -> id: 45828 -> priority: 1 

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1331350170432762}
+  m_IsPrefabParent: 1
+--- !u!1 &1331350170432762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4017378193111986}
+  - component: {fileID: 114253373569454590}
+  - component: {fileID: 114319899852137206}
+  m_Layer: 0
+  m_Name: Level Generator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4017378193111986
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1331350170432762}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114253373569454590
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1331350170432762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 55
+    i1: 74
+    i2: 156
+    i3: 241
+    i4: 45
+    i5: 146
+    i6: 11
+    i7: 68
+    i8: 217
+    i9: 82
+    i10: 108
+    i11: 98
+    i12: 244
+    i13: 156
+    i14: 0
+    i15: 136
+  m_ServerOnly: 1
+  m_LocalPlayerAuthority: 0
+--- !u!114 &114319899852137206
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1331350170432762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79bca8b312ac9f44cb7176fca6911561, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  northWalls:
+  - {fileID: 1561595950024954, guid: a06654c34e5ea534dabf542c9e6c82bf, type: 2}
+  - {fileID: 1540770816852116, guid: 160648092901ce248b4bc7127d7569f1, type: 2}
+  southWalls:
+  - {fileID: 1683291987362736, guid: 7d147f4a40759444d906c43061d2b21a, type: 2}
+  - {fileID: 1629445553816192, guid: b4a9ce1428d0b5045863d61bada9cb56, type: 2}
+  westWalls:
+  - {fileID: 1815850414178388, guid: 90f6044a34d6211489f27c85ad0fb6c5, type: 2}
+  - {fileID: 1026671967748088, guid: 50f3b88774e71c74a8c292da5dbe35c5, type: 2}
+  eastWalls:
+  - {fileID: 1860263233138062, guid: cf2041df401ce7141a1d2ae845c08db4, type: 2}
+  - {fileID: 1305432909112072, guid: 8d3713bd5822a754595771cb786f949a, type: 2}
+  regularTiles:
+  - {fileID: 1607020739603250, guid: 8c15942870ee1c64d9b982a8da64cadf, type: 2}
+  - {fileID: 1001970089632292, guid: 94a3476221479b64bb499097d0304bdc, type: 2}
+  - {fileID: 1420665878793796, guid: e70823ec7b288a442a585a34d570a1af, type: 2}
+  runeTiles:
+  - {fileID: 1004960467666070, guid: b8d61c65511d1664dbaa5283a9bdf801, type: 2}
+  - {fileID: 1167842003012742, guid: b54217aa231cd7d4a979dce03cb2a7b6, type: 2}
+  - {fileID: 1762191437192692, guid: dbfeec7aac7cba84ca57dd54f82d9b7c, type: 2}
+  playerEntrances:
+  - {fileID: 1209713917560784, guid: 61051215d0a02f44dbb12045a81959df, type: 2}
+  enemyEntrances:
+  - {fileID: 1607721271017966, guid: 50ef22b1f5fc6e54ab8a33059cf97528, type: 2}
+  playerExits:
+  - {fileID: 1306244524729822, guid: 136347c7277a6604a8fb63b3b80463f9, type: 2}
+  cornerPieces:
+  - {fileID: 1494419282883646, guid: 779762c6c95633e4c9d21c9ba2adcd98, type: 2}
+  centerPieces:
+  - {fileID: 1393575126392992, guid: eeaaa345975c2664f9f17edef3fed407, type: 2}
+  centerPieceDimensions: 3
+  xExpansion: 5
+  yExpansion: 5
+  runeChance: 0.2

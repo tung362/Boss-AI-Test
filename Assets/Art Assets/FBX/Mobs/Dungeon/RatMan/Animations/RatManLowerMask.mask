@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RatManLowerMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Spine1
+    m_Weight: 1
+  - m_Path: Spine1/Spine2
+    m_Weight: 0
+  - m_Path: Spine1/Spine2/Spine3
+    m_Weight: 0
+  - m_Path: Spine1/Spine2/Spine3/Head
+    m_Weight: 0
+  - m_Path: Spine1/Spine2/Spine3/Head/Jaw
+    m_Weight: 0
+  - m_Path: Spine1/Spine2/Spine3/TopLeftArm
+    m_Weight: 0
+  - m_Path: Spine1/Spine2/Spine3/TopLeftArm/BottomLeftArm
+    m_Weight: 0
+  - m_Path: Spine1/Spine2/Spine3/TopRightArm
+    m_Weight: 0
+  - m_Path: Spine1/Spine2/Spine3/TopRightArm/BottomRightArm
+    m_Weight: 0
+  - m_Path: Spine1/Tail1
+    m_Weight: 1
+  - m_Path: Spine1/Tail1/Tail2
+    m_Weight: 1
+  - m_Path: Spine1/Tail1/Tail2/Tail3
+    m_Weight: 1
+  - m_Path: Spine1/Tail1/Tail2/Tail3/Tail4
+    m_Weight: 1
+  - m_Path: Spine1/TopLeftLeg
+    m_Weight: 1
+  - m_Path: Spine1/TopLeftLeg/BottomLeftLeg
+    m_Weight: 1
+  - m_Path: Spine1/TopRightLeg
+    m_Weight: 1
+  - m_Path: Spine1/TopRightLeg/BottomRightLeg
+    m_Weight: 1

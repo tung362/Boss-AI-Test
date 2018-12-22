@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: d191bf3735fb69545bdbe00b5a37a854
+timeCreated: 1493831825
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BottomLeftArm
+    100002: BottomLeftLeg
+    100004: BottomRightArm
+    100006: BottomRightLeg
+    100008: Head
+    100010: Jaw
+    100012: //RootNode
+    100014: Spine1
+    100016: Spine2
+    100018: Spine3
+    100020: Tail1
+    100022: Tail2
+    100024: Tail3
+    100026: Tail4
+    100028: TopLeftArm
+    100030: TopLeftLeg
+    100032: TopRightArm
+    100034: TopRightLeg
+    400000: BottomLeftArm
+    400002: BottomLeftLeg
+    400004: BottomRightArm
+    400006: BottomRightLeg
+    400008: Head
+    400010: Jaw
+    400012: //RootNode
+    400014: Spine1
+    400016: Spine2
+    400018: Spine3
+    400020: Tail1
+    400022: Tail2
+    400024: Tail3
+    400026: Tail4
+    400028: TopLeftArm
+    400030: TopLeftLeg
+    400032: TopRightArm
+    400034: TopRightLeg
+    2300000: BottomLeftArm
+    2300002: BottomLeftLeg
+    2300004: BottomRightArm
+    2300006: BottomRightLeg
+    2300008: Head
+    2300010: Jaw
+    2300012: Spine1
+    2300014: Spine2
+    2300016: Spine3
+    2300018: Tail1
+    2300020: Tail2
+    2300022: Tail3
+    2300024: Tail4
+    2300026: TopLeftArm
+    2300028: TopLeftLeg
+    2300030: TopRightArm
+    2300032: TopRightLeg
+    3300000: BottomLeftArm
+    3300002: BottomLeftLeg
+    3300004: BottomRightArm
+    3300006: BottomRightLeg
+    3300008: Head
+    3300010: Jaw
+    3300012: Spine1
+    3300014: Spine2
+    3300016: Spine3
+    3300018: Tail1
+    3300020: Tail2
+    3300022: Tail3
+    3300024: Tail4
+    3300026: TopLeftArm
+    3300028: TopLeftLeg
+    3300030: TopRightArm
+    3300032: TopRightLeg
+    4300000: Spine1
+    4300002: Tail1
+    4300004: Tail2
+    4300006: Tail3
+    4300008: Tail4
+    4300010: TopLeftLeg
+    4300012: BottomLeftLeg
+    4300014: TopRightLeg
+    4300016: BottomRightLeg
+    4300018: Spine2
+    4300020: Spine3
+    4300022: TopLeftArm
+    4300024: BottomLeftArm
+    4300026: TopRightArm
+    4300028: BottomRightArm
+    4300030: Head
+    4300032: Jaw
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
